@@ -1,0 +1,3002 @@
+[
+    {
+        "SchoolID":1,
+        "SAUID":1,
+        "SchoolName":"Brown-Phillips High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":2,
+        "SAUID":1,
+        "SchoolName":"White-Thomas Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":3,
+        "SAUID":2,
+        "SchoolName":"Pratt-Rangel Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":4,
+        "SAUID":2,
+        "SchoolName":"Frye-Bray Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":5,
+        "SAUID":3,
+        "SchoolName":"Jones-Shields Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":6,
+        "SAUID":3,
+        "SchoolName":"James-Bryant Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":7,
+        "SAUID":4,
+        "SchoolName":"Fisher-Mcdaniel Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":8,
+        "SAUID":4,
+        "SchoolName":"Chase-Price Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":9,
+        "SAUID":5,
+        "SchoolName":"Fowler LLC Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":10,
+        "SAUID":5,
+        "SchoolName":"Pena LLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":11,
+        "SAUID":6,
+        "SchoolName":"Harris LLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":12,
+        "SAUID":6,
+        "SchoolName":"Giles Group High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":13,
+        "SAUID":7,
+        "SchoolName":"Ford Ltd Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":14,
+        "SAUID":7,
+        "SchoolName":"Rivera and Sons High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":15,
+        "SAUID":8,
+        "SchoolName":"Simon, Lamb and Rivera Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":16,
+        "SAUID":8,
+        "SchoolName":"Fletcher, Hoffman and Aguilar Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":17,
+        "SAUID":9,
+        "SchoolName":"Daugherty-Perez Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":18,
+        "SAUID":9,
+        "SchoolName":"Watkins, Grant and Giles High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":19,
+        "SAUID":10,
+        "SchoolName":"Jones, Serrano and Holloway Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":20,
+        "SAUID":10,
+        "SchoolName":"Armstrong, Lee and Moore Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":21,
+        "SAUID":11,
+        "SchoolName":"Davis PLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":22,
+        "SAUID":11,
+        "SchoolName":"Wagner PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":23,
+        "SAUID":12,
+        "SchoolName":"Garcia, Golden and Kennedy High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":24,
+        "SAUID":12,
+        "SchoolName":"Aguirre Group Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":25,
+        "SAUID":13,
+        "SchoolName":"Washington-Khan Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":26,
+        "SAUID":13,
+        "SchoolName":"Schneider, Cline and Martin Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":27,
+        "SAUID":14,
+        "SchoolName":"Erickson, Cook and Walker Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":28,
+        "SAUID":14,
+        "SchoolName":"Mason, Kramer and Lee Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":29,
+        "SAUID":15,
+        "SchoolName":"Grimes Group Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":30,
+        "SAUID":15,
+        "SchoolName":"Aguilar LLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":31,
+        "SAUID":16,
+        "SchoolName":"Duran, Smith and Bentley Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":32,
+        "SAUID":16,
+        "SchoolName":"Taylor-Foster Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":33,
+        "SAUID":17,
+        "SchoolName":"Charles, Johnson and Lane Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":34,
+        "SAUID":17,
+        "SchoolName":"Owens-Weiss Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":35,
+        "SAUID":18,
+        "SchoolName":"Jones, Davis and Jones Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":36,
+        "SAUID":18,
+        "SchoolName":"Dixon-Williams Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":37,
+        "SAUID":19,
+        "SchoolName":"Marshall LLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":38,
+        "SAUID":19,
+        "SchoolName":"Harrison-Calhoun High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":39,
+        "SAUID":20,
+        "SchoolName":"Leach Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":40,
+        "SAUID":20,
+        "SchoolName":"Love Inc Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":41,
+        "SAUID":21,
+        "SchoolName":"Rice-Valencia High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":42,
+        "SAUID":21,
+        "SchoolName":"Matthews, Hampton and Benton High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":43,
+        "SAUID":22,
+        "SchoolName":"Mcgee Group Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":44,
+        "SAUID":22,
+        "SchoolName":"Bryant, Hall and Peck Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":45,
+        "SAUID":23,
+        "SchoolName":"Rose, Fowler and Jones High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":46,
+        "SAUID":23,
+        "SchoolName":"Cunningham-Davis Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":47,
+        "SAUID":24,
+        "SchoolName":"Hodges-Keller Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":48,
+        "SAUID":24,
+        "SchoolName":"Moore-Smith High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":49,
+        "SAUID":25,
+        "SchoolName":"Hooper, Kelly and Vega Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":50,
+        "SAUID":25,
+        "SchoolName":"Yoder, Thompson and Pruitt Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":51,
+        "SAUID":26,
+        "SchoolName":"Erickson, Rodriguez and Watson Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":52,
+        "SAUID":26,
+        "SchoolName":"Ramos-Gonzalez Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":53,
+        "SAUID":27,
+        "SchoolName":"Tyler-Hill High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":54,
+        "SAUID":27,
+        "SchoolName":"Garza, Thompson and Reed High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":55,
+        "SAUID":28,
+        "SchoolName":"Moore, Mendoza and Casey High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":56,
+        "SAUID":28,
+        "SchoolName":"Donovan, Smith and Warner Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":57,
+        "SAUID":29,
+        "SchoolName":"Horn and Sons High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":58,
+        "SAUID":29,
+        "SchoolName":"Ramirez, Jones and Edwards Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":59,
+        "SAUID":30,
+        "SchoolName":"White, Patterson and Ortiz Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":60,
+        "SAUID":30,
+        "SchoolName":"Davis Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":61,
+        "SAUID":31,
+        "SchoolName":"Castaneda, Strong and Schultz Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":62,
+        "SAUID":31,
+        "SchoolName":"Perez, Le and Martin High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":63,
+        "SAUID":32,
+        "SchoolName":"Castillo, Coffey and Davis Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":64,
+        "SAUID":32,
+        "SchoolName":"Roberson, Robinson and Murray Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":65,
+        "SAUID":33,
+        "SchoolName":"Wright-Ward Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":66,
+        "SAUID":33,
+        "SchoolName":"Herrera, Ferrell and Martinez Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":67,
+        "SAUID":34,
+        "SchoolName":"Donaldson-Grant High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":68,
+        "SAUID":34,
+        "SchoolName":"Rivera-Holland High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":69,
+        "SAUID":35,
+        "SchoolName":"Richards-Hernandez Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":70,
+        "SAUID":35,
+        "SchoolName":"Thomas PLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":71,
+        "SAUID":36,
+        "SchoolName":"Wilson Ltd Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":72,
+        "SAUID":36,
+        "SchoolName":"Durham-Kennedy Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":73,
+        "SAUID":37,
+        "SchoolName":"Irwin-Douglas Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":74,
+        "SAUID":37,
+        "SchoolName":"Harvey Inc High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":75,
+        "SAUID":38,
+        "SchoolName":"Barrera, Cross and Bennett Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":76,
+        "SAUID":38,
+        "SchoolName":"Hall, Bishop and Thomas High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":77,
+        "SAUID":39,
+        "SchoolName":"Carter, George and Smith High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":78,
+        "SAUID":39,
+        "SchoolName":"Bradley, Crawford and Patterson Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":79,
+        "SAUID":40,
+        "SchoolName":"Floyd-Kennedy Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":80,
+        "SAUID":40,
+        "SchoolName":"Reyes PLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":81,
+        "SAUID":41,
+        "SchoolName":"Brown-Woodard Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":82,
+        "SAUID":41,
+        "SchoolName":"Jackson Ltd Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":83,
+        "SAUID":42,
+        "SchoolName":"Gonzalez-Stevens Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":84,
+        "SAUID":42,
+        "SchoolName":"Ward, Miller and Shaw Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":85,
+        "SAUID":43,
+        "SchoolName":"Rangel, Morales and Gardner Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":86,
+        "SAUID":43,
+        "SchoolName":"Woodard and Sons Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":87,
+        "SAUID":44,
+        "SchoolName":"Robinson, White and Bridges Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":88,
+        "SAUID":44,
+        "SchoolName":"Mclean, Chavez and Sims Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":89,
+        "SAUID":45,
+        "SchoolName":"Castillo-Terry Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":90,
+        "SAUID":45,
+        "SchoolName":"Williams, Wilkerson and Smith Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":91,
+        "SAUID":46,
+        "SchoolName":"Campbell LLC High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":92,
+        "SAUID":46,
+        "SchoolName":"Duke PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":93,
+        "SAUID":47,
+        "SchoolName":"Oconnor, Monroe and Holmes Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":94,
+        "SAUID":47,
+        "SchoolName":"Stevens-Hansen Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":95,
+        "SAUID":48,
+        "SchoolName":"Long-Williams Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":96,
+        "SAUID":48,
+        "SchoolName":"Farley LLC Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":97,
+        "SAUID":49,
+        "SchoolName":"Conner, Hudson and Hays Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":98,
+        "SAUID":49,
+        "SchoolName":"Vaughn, Hill and Foster High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":99,
+        "SAUID":50,
+        "SchoolName":"Zuniga, Dixon and Beasley Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":100,
+        "SAUID":50,
+        "SchoolName":"Holt-Mays High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":101,
+        "SAUID":51,
+        "SchoolName":"Barry, Kemp and Rush Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":102,
+        "SAUID":51,
+        "SchoolName":"Gomez Ltd Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":103,
+        "SAUID":52,
+        "SchoolName":"Brooks-Jackson Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":104,
+        "SAUID":52,
+        "SchoolName":"Brown-Pope Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":105,
+        "SAUID":53,
+        "SchoolName":"Moreno, Mcgrath and Sanders Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":106,
+        "SAUID":53,
+        "SchoolName":"Mclaughlin, Chapman and Ross Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":107,
+        "SAUID":54,
+        "SchoolName":"Vega and Sons High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":108,
+        "SAUID":54,
+        "SchoolName":"Kennedy LLC High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":109,
+        "SAUID":55,
+        "SchoolName":"Andrews, Smith and Bowman High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":110,
+        "SAUID":55,
+        "SchoolName":"Smith, Scott and Willis Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":111,
+        "SAUID":56,
+        "SchoolName":"Black-Freeman Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":112,
+        "SAUID":56,
+        "SchoolName":"Smith PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":113,
+        "SAUID":57,
+        "SchoolName":"Flores Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":114,
+        "SAUID":57,
+        "SchoolName":"Jones and Sons Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":115,
+        "SAUID":58,
+        "SchoolName":"Ortiz Group Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":116,
+        "SAUID":58,
+        "SchoolName":"Williams Ltd High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":117,
+        "SAUID":59,
+        "SchoolName":"Martin-Barrera Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":118,
+        "SAUID":59,
+        "SchoolName":"Phillips-Hamilton High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":119,
+        "SAUID":60,
+        "SchoolName":"Haynes, Daniel and Mason Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":120,
+        "SAUID":60,
+        "SchoolName":"Martinez Inc Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":121,
+        "SAUID":61,
+        "SchoolName":"Boyd Ltd Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":122,
+        "SAUID":61,
+        "SchoolName":"Randall, Chapman and Conway Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":123,
+        "SAUID":62,
+        "SchoolName":"Jones, Willis and Walker Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":124,
+        "SAUID":62,
+        "SchoolName":"Martin and Sons Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":125,
+        "SAUID":63,
+        "SchoolName":"Hanson, Johnson and Williams Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":126,
+        "SAUID":63,
+        "SchoolName":"Herrera-Sanchez High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":127,
+        "SAUID":64,
+        "SchoolName":"Leonard LLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":128,
+        "SAUID":64,
+        "SchoolName":"Reeves Ltd High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":129,
+        "SAUID":65,
+        "SchoolName":"Smith-Austin Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":130,
+        "SAUID":65,
+        "SchoolName":"Mcbride-Mays Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":131,
+        "SAUID":66,
+        "SchoolName":"Shaw-Anderson High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":132,
+        "SAUID":66,
+        "SchoolName":"Ward, Love and Walters Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":133,
+        "SAUID":67,
+        "SchoolName":"Webster, Cox and Jensen High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":134,
+        "SAUID":67,
+        "SchoolName":"Adams-Jackson Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":135,
+        "SAUID":68,
+        "SchoolName":"Garza, Cook and Yang Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":136,
+        "SAUID":68,
+        "SchoolName":"Palmer Inc High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":137,
+        "SAUID":69,
+        "SchoolName":"Johnson-Walters Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":138,
+        "SAUID":69,
+        "SchoolName":"Adkins, Duran and Henry Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":139,
+        "SAUID":70,
+        "SchoolName":"Hernandez Inc Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":140,
+        "SAUID":70,
+        "SchoolName":"Atkins PLC Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":141,
+        "SAUID":71,
+        "SchoolName":"Hammond and Sons Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":142,
+        "SAUID":71,
+        "SchoolName":"Chavez-Wilson High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":143,
+        "SAUID":72,
+        "SchoolName":"Jennings Ltd High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":144,
+        "SAUID":72,
+        "SchoolName":"Williams-Hall Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":145,
+        "SAUID":73,
+        "SchoolName":"Cross-Stephens Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":146,
+        "SAUID":73,
+        "SchoolName":"Wilkins, Armstrong and Nunez Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":147,
+        "SAUID":74,
+        "SchoolName":"Martin Ltd High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":148,
+        "SAUID":74,
+        "SchoolName":"Rosales, Marquez and Kane Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":149,
+        "SAUID":75,
+        "SchoolName":"Fuller Ltd Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":150,
+        "SAUID":75,
+        "SchoolName":"Stevens Group Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":151,
+        "SAUID":76,
+        "SchoolName":"Manning PLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":152,
+        "SAUID":76,
+        "SchoolName":"Marsh-Lopez High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":153,
+        "SAUID":77,
+        "SchoolName":"Silva PLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":154,
+        "SAUID":77,
+        "SchoolName":"Schmidt LLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":155,
+        "SAUID":78,
+        "SchoolName":"Ford, Hughes and Small High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":156,
+        "SAUID":78,
+        "SchoolName":"Murray-Garcia Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":157,
+        "SAUID":79,
+        "SchoolName":"Silva and Sons Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":158,
+        "SAUID":79,
+        "SchoolName":"Griffin PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":159,
+        "SAUID":80,
+        "SchoolName":"Singh Inc High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":160,
+        "SAUID":80,
+        "SchoolName":"Morgan, Barker and Brooks Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":161,
+        "SAUID":81,
+        "SchoolName":"Jimenez and Sons Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":162,
+        "SAUID":81,
+        "SchoolName":"Murphy and Sons Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":163,
+        "SAUID":82,
+        "SchoolName":"Gonzales PLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":164,
+        "SAUID":82,
+        "SchoolName":"Gonzales, Richards and Hill Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":165,
+        "SAUID":83,
+        "SchoolName":"Figueroa, Horn and Bush High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":166,
+        "SAUID":83,
+        "SchoolName":"Stanley, Barton and Jordan Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":167,
+        "SAUID":84,
+        "SchoolName":"Bautista, Page and Sherman High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":168,
+        "SAUID":84,
+        "SchoolName":"Watkins-Mitchell Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":169,
+        "SAUID":85,
+        "SchoolName":"Mitchell, Sanders and Gillespie Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":170,
+        "SAUID":85,
+        "SchoolName":"Bishop-Franklin Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":171,
+        "SAUID":86,
+        "SchoolName":"Foster-Jackson High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":172,
+        "SAUID":86,
+        "SchoolName":"Johnston, Sanchez and Brown High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":173,
+        "SAUID":87,
+        "SchoolName":"Crawford Inc High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":174,
+        "SAUID":87,
+        "SchoolName":"Daniels-Meza High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":175,
+        "SAUID":88,
+        "SchoolName":"Allen-Bryan Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":176,
+        "SAUID":88,
+        "SchoolName":"Glass LLC High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":177,
+        "SAUID":89,
+        "SchoolName":"Holt PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":178,
+        "SAUID":89,
+        "SchoolName":"Foster Inc Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":179,
+        "SAUID":90,
+        "SchoolName":"Brown, Mays and Garrett High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":180,
+        "SAUID":90,
+        "SchoolName":"Davis-Meyer High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":181,
+        "SAUID":91,
+        "SchoolName":"Young, Dominguez and Conner High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":182,
+        "SAUID":91,
+        "SchoolName":"Ross-Collins High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":183,
+        "SAUID":92,
+        "SchoolName":"Robinson, Russell and Moore High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":184,
+        "SAUID":92,
+        "SchoolName":"Mcdaniel, Santos and Leonard Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":185,
+        "SAUID":93,
+        "SchoolName":"Johnson, Perry and Rodriguez Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":186,
+        "SAUID":93,
+        "SchoolName":"Stevens, Reilly and Lambert Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":187,
+        "SAUID":94,
+        "SchoolName":"Spencer-Olsen High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":188,
+        "SAUID":94,
+        "SchoolName":"Marshall LLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":189,
+        "SAUID":95,
+        "SchoolName":"Petty, Gibson and Estrada Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":190,
+        "SAUID":95,
+        "SchoolName":"Dominguez PLC High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":191,
+        "SAUID":96,
+        "SchoolName":"Olson Ltd High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":192,
+        "SAUID":96,
+        "SchoolName":"Brown, Santiago and Burns Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":193,
+        "SAUID":97,
+        "SchoolName":"Velazquez-Estrada Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":194,
+        "SAUID":97,
+        "SchoolName":"Graham, Bowman and Chan Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":195,
+        "SAUID":98,
+        "SchoolName":"Campbell-Patton Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":196,
+        "SAUID":98,
+        "SchoolName":"Stanley, Mckenzie and Rivas High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":197,
+        "SAUID":99,
+        "SchoolName":"Lopez-Cox Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":198,
+        "SAUID":99,
+        "SchoolName":"Tucker LLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":199,
+        "SAUID":100,
+        "SchoolName":"Monroe Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":200,
+        "SAUID":100,
+        "SchoolName":"Doyle, Moreno and Bailey Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":201,
+        "SAUID":101,
+        "SchoolName":"Watson LLC High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":202,
+        "SAUID":101,
+        "SchoolName":"Brown, Robbins and Reyes High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":203,
+        "SAUID":102,
+        "SchoolName":"Benson-Delgado Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":204,
+        "SAUID":102,
+        "SchoolName":"Leonard-Reeves High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":205,
+        "SAUID":103,
+        "SchoolName":"Martin, Carrillo and Mcdonald Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":206,
+        "SAUID":103,
+        "SchoolName":"Barr-Espinoza High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":207,
+        "SAUID":104,
+        "SchoolName":"Wagner and Sons Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":208,
+        "SAUID":104,
+        "SchoolName":"Garrison PLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":209,
+        "SAUID":105,
+        "SchoolName":"Fitzpatrick, Lyons and Fox Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":210,
+        "SAUID":105,
+        "SchoolName":"Benson LLC High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":211,
+        "SAUID":106,
+        "SchoolName":"Durham Ltd Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":212,
+        "SAUID":106,
+        "SchoolName":"Vincent-Knight Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":213,
+        "SAUID":107,
+        "SchoolName":"Mosley LLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":214,
+        "SAUID":107,
+        "SchoolName":"Francis Ltd High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":215,
+        "SAUID":108,
+        "SchoolName":"Brown-Collins Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":216,
+        "SAUID":108,
+        "SchoolName":"Vaughan-Flores Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":217,
+        "SAUID":109,
+        "SchoolName":"Alexander-Bates Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":218,
+        "SAUID":109,
+        "SchoolName":"King-Jones High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":219,
+        "SAUID":110,
+        "SchoolName":"Vazquez, Strickland and Mcdonald Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":220,
+        "SAUID":110,
+        "SchoolName":"Lee-Reyes Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":221,
+        "SAUID":111,
+        "SchoolName":"Collins-Ramos Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":222,
+        "SAUID":111,
+        "SchoolName":"Green, Arias and Keller High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":223,
+        "SAUID":112,
+        "SchoolName":"Delgado, Doyle and Roberson Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":224,
+        "SAUID":112,
+        "SchoolName":"Alexander-White Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":225,
+        "SAUID":113,
+        "SchoolName":"Alexander-Spencer High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":226,
+        "SAUID":113,
+        "SchoolName":"Henderson Inc Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":227,
+        "SAUID":114,
+        "SchoolName":"Tran PLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":228,
+        "SAUID":114,
+        "SchoolName":"Harmon, Ryan and Houston High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":229,
+        "SAUID":115,
+        "SchoolName":"Garcia LLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":230,
+        "SAUID":115,
+        "SchoolName":"Arias, Wilson and Trujillo High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":231,
+        "SAUID":116,
+        "SchoolName":"Francis-Brooks Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":232,
+        "SAUID":116,
+        "SchoolName":"Brown Ltd Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":233,
+        "SAUID":117,
+        "SchoolName":"Horton and Sons High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":234,
+        "SAUID":117,
+        "SchoolName":"Simmons-Boyle Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":235,
+        "SAUID":118,
+        "SchoolName":"Walker-Chung Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":236,
+        "SAUID":118,
+        "SchoolName":"Morgan PLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":237,
+        "SAUID":119,
+        "SchoolName":"Santana, Miller and Martin Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":238,
+        "SAUID":119,
+        "SchoolName":"Burton Group Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":239,
+        "SAUID":120,
+        "SchoolName":"Miller Ltd Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":240,
+        "SAUID":120,
+        "SchoolName":"Ruiz Group Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":241,
+        "SAUID":121,
+        "SchoolName":"Lane-Alvarado Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":242,
+        "SAUID":121,
+        "SchoolName":"Espinoza, Ochoa and Thomas Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":243,
+        "SAUID":122,
+        "SchoolName":"Hicks, Johnson and Jarvis Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":244,
+        "SAUID":122,
+        "SchoolName":"Meyer, Ortiz and Villarreal Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":245,
+        "SAUID":123,
+        "SchoolName":"Schultz, Williams and Reed Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":246,
+        "SAUID":123,
+        "SchoolName":"Johns-Brooks High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":247,
+        "SAUID":124,
+        "SchoolName":"Knox PLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":248,
+        "SAUID":124,
+        "SchoolName":"Hill-Vaughn High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":249,
+        "SAUID":125,
+        "SchoolName":"Mckinney Inc Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":250,
+        "SAUID":125,
+        "SchoolName":"Todd PLC Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":251,
+        "SAUID":126,
+        "SchoolName":"Lucero, Morris and Rose Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":252,
+        "SAUID":126,
+        "SchoolName":"Willis Inc Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":253,
+        "SAUID":127,
+        "SchoolName":"Williams-Miller Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":254,
+        "SAUID":127,
+        "SchoolName":"Ewing, Patterson and Ford Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":255,
+        "SAUID":128,
+        "SchoolName":"Morales-Jones Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":256,
+        "SAUID":128,
+        "SchoolName":"Jones, Bentley and Lara Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":257,
+        "SAUID":129,
+        "SchoolName":"Campbell PLC Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":258,
+        "SAUID":129,
+        "SchoolName":"Hunter, Mcmillan and Love Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":259,
+        "SAUID":130,
+        "SchoolName":"Mckay, Moore and Krause Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":260,
+        "SAUID":130,
+        "SchoolName":"Jones, Oliver and Berry Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":261,
+        "SAUID":131,
+        "SchoolName":"Stewart Ltd Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":262,
+        "SAUID":131,
+        "SchoolName":"Lawson LLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":263,
+        "SAUID":132,
+        "SchoolName":"Smith and Sons Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":264,
+        "SAUID":132,
+        "SchoolName":"Wilkinson-Woods High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":265,
+        "SAUID":133,
+        "SchoolName":"Medina, Gonzalez and Hahn Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":266,
+        "SAUID":133,
+        "SchoolName":"Farrell Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":267,
+        "SAUID":134,
+        "SchoolName":"Boone, Sanchez and Todd High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":268,
+        "SAUID":134,
+        "SchoolName":"Salazar, Dickson and Smith High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":269,
+        "SAUID":135,
+        "SchoolName":"Smith, Pierce and Davis Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":270,
+        "SAUID":135,
+        "SchoolName":"Rocha-Lopez Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":271,
+        "SAUID":136,
+        "SchoolName":"Sandoval-Turner High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":272,
+        "SAUID":136,
+        "SchoolName":"Roberson Inc Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":273,
+        "SAUID":137,
+        "SchoolName":"Becker, Maddox and Ramos Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":274,
+        "SAUID":137,
+        "SchoolName":"Anderson-Torres High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":275,
+        "SAUID":138,
+        "SchoolName":"Miller Inc Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":276,
+        "SAUID":138,
+        "SchoolName":"Perry, Mendoza and Castillo High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":277,
+        "SAUID":139,
+        "SchoolName":"Gray, Miller and Jones Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":278,
+        "SAUID":139,
+        "SchoolName":"Salinas Group Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":279,
+        "SAUID":140,
+        "SchoolName":"George PLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":280,
+        "SAUID":140,
+        "SchoolName":"Gallagher, Jordan and Harris Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":281,
+        "SAUID":141,
+        "SchoolName":"Archer Inc High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":282,
+        "SAUID":141,
+        "SchoolName":"Hall PLC Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":283,
+        "SAUID":142,
+        "SchoolName":"Frye, Davis and Jordan Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":284,
+        "SAUID":142,
+        "SchoolName":"Blanchard-Evans Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":285,
+        "SAUID":143,
+        "SchoolName":"Arnold-Parker High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":286,
+        "SAUID":143,
+        "SchoolName":"King Inc Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":287,
+        "SAUID":144,
+        "SchoolName":"Davis PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":288,
+        "SAUID":144,
+        "SchoolName":"Guerrero-Woods Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":289,
+        "SAUID":145,
+        "SchoolName":"Ortiz Inc Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":290,
+        "SAUID":145,
+        "SchoolName":"Washington, Robinson and Edwards Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":291,
+        "SAUID":146,
+        "SchoolName":"Johnson Inc High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":292,
+        "SAUID":146,
+        "SchoolName":"Johnson-Wilson Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":293,
+        "SAUID":147,
+        "SchoolName":"Lester-Harris Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":294,
+        "SAUID":147,
+        "SchoolName":"Cline, Smith and Graham High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":295,
+        "SAUID":148,
+        "SchoolName":"Hudson, Morris and Mathis Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":296,
+        "SAUID":148,
+        "SchoolName":"Turner Ltd High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":297,
+        "SAUID":149,
+        "SchoolName":"Stevenson-Thornton High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":298,
+        "SAUID":149,
+        "SchoolName":"Lawson LLC High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":299,
+        "SAUID":150,
+        "SchoolName":"Bowen-Solis Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":300,
+        "SAUID":150,
+        "SchoolName":"Hopkins-Jones Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":301,
+        "SAUID":151,
+        "SchoolName":"Tate-Powers Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":302,
+        "SAUID":151,
+        "SchoolName":"Hale, Jackson and Snyder Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":303,
+        "SAUID":152,
+        "SchoolName":"Newman-Cowan Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":304,
+        "SAUID":152,
+        "SchoolName":"Marshall, Collins and Bolton High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":305,
+        "SAUID":153,
+        "SchoolName":"Francis, Benton and Santos Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":306,
+        "SAUID":153,
+        "SchoolName":"Love LLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":307,
+        "SAUID":154,
+        "SchoolName":"Boyle, Ellison and Mason Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":308,
+        "SAUID":154,
+        "SchoolName":"Martinez LLC Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":309,
+        "SAUID":155,
+        "SchoolName":"Smith, Glover and Bailey High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":310,
+        "SAUID":155,
+        "SchoolName":"Dillon-Sandoval High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":311,
+        "SAUID":156,
+        "SchoolName":"Vaughan-Burns Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":312,
+        "SAUID":156,
+        "SchoolName":"Smith Group Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":313,
+        "SAUID":157,
+        "SchoolName":"Lambert, Valenzuela and Patterson Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":314,
+        "SAUID":157,
+        "SchoolName":"French-Miller High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":315,
+        "SAUID":158,
+        "SchoolName":"Bradley Group Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":316,
+        "SAUID":158,
+        "SchoolName":"Gaines-Cox Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":317,
+        "SAUID":159,
+        "SchoolName":"Keller-Carlson High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":318,
+        "SAUID":159,
+        "SchoolName":"Jones, Ross and Alexander Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":319,
+        "SAUID":160,
+        "SchoolName":"Garrett Group Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":320,
+        "SAUID":160,
+        "SchoolName":"Allen, Hopkins and Woods High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":321,
+        "SAUID":161,
+        "SchoolName":"Cook-Harrison Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":322,
+        "SAUID":161,
+        "SchoolName":"Figueroa-Taylor Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":323,
+        "SAUID":162,
+        "SchoolName":"Herrera, Ferguson and Pearson Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":324,
+        "SAUID":162,
+        "SchoolName":"Perez-Rhodes Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":325,
+        "SAUID":163,
+        "SchoolName":"Wilcox PLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":326,
+        "SAUID":163,
+        "SchoolName":"Patton, Davis and Johnson Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":327,
+        "SAUID":164,
+        "SchoolName":"Yu and Sons High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":328,
+        "SAUID":164,
+        "SchoolName":"Davis PLC Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":329,
+        "SAUID":165,
+        "SchoolName":"Hill-Hunter High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":330,
+        "SAUID":165,
+        "SchoolName":"Mayo-Lopez High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":331,
+        "SAUID":166,
+        "SchoolName":"Morrison-Martinez Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":332,
+        "SAUID":166,
+        "SchoolName":"Faulkner-James Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":333,
+        "SAUID":167,
+        "SchoolName":"Kidd, Blackwell and Wilson Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":334,
+        "SAUID":167,
+        "SchoolName":"Williams, Torres and Shields Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":335,
+        "SAUID":168,
+        "SchoolName":"Powell-Page High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":336,
+        "SAUID":168,
+        "SchoolName":"Smith, Richardson and Watkins Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":337,
+        "SAUID":169,
+        "SchoolName":"Savage Group Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":338,
+        "SAUID":169,
+        "SchoolName":"Hall and Sons Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":339,
+        "SAUID":170,
+        "SchoolName":"Greene and Sons Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":340,
+        "SAUID":170,
+        "SchoolName":"Lee-Williams Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":341,
+        "SAUID":171,
+        "SchoolName":"Wheeler-Johnson Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":342,
+        "SAUID":171,
+        "SchoolName":"Merritt-Ewing High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":343,
+        "SAUID":172,
+        "SchoolName":"Ferguson, Phillips and Perez Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":344,
+        "SAUID":172,
+        "SchoolName":"Coleman, Jefferson and Wilson Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":345,
+        "SAUID":173,
+        "SchoolName":"Hardin, Smith and Gomez Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":346,
+        "SAUID":173,
+        "SchoolName":"Johnson Inc Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":347,
+        "SAUID":174,
+        "SchoolName":"Caldwell, Roberts and Rodriguez Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":348,
+        "SAUID":174,
+        "SchoolName":"Hogan-Delacruz Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":349,
+        "SAUID":175,
+        "SchoolName":"Dyer LLC High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":350,
+        "SAUID":175,
+        "SchoolName":"Schmitt Group Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":351,
+        "SAUID":176,
+        "SchoolName":"Wilson Ltd Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":352,
+        "SAUID":176,
+        "SchoolName":"Clark-Marsh Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":353,
+        "SAUID":177,
+        "SchoolName":"Scott, Franklin and Torres Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":354,
+        "SAUID":177,
+        "SchoolName":"Bowers Ltd High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":355,
+        "SAUID":178,
+        "SchoolName":"Hancock PLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":356,
+        "SAUID":178,
+        "SchoolName":"Arnold-Tran High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":357,
+        "SAUID":179,
+        "SchoolName":"Bailey PLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":358,
+        "SAUID":179,
+        "SchoolName":"Ortiz-Sanchez High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":359,
+        "SAUID":180,
+        "SchoolName":"Decker-Cook High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":360,
+        "SAUID":180,
+        "SchoolName":"Smith, Lopez and Fernandez Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":361,
+        "SAUID":181,
+        "SchoolName":"Johnson, Fleming and Alexander Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":362,
+        "SAUID":181,
+        "SchoolName":"Mccoy-Graham Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":363,
+        "SAUID":182,
+        "SchoolName":"Dean-Adams Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":364,
+        "SAUID":182,
+        "SchoolName":"Young-Heath Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":365,
+        "SAUID":183,
+        "SchoolName":"Duke-Silva High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":366,
+        "SAUID":183,
+        "SchoolName":"Patel Group Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":367,
+        "SAUID":184,
+        "SchoolName":"Mills-Rivera Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":368,
+        "SAUID":184,
+        "SchoolName":"Brown-Jones Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":369,
+        "SAUID":185,
+        "SchoolName":"Russell, Brown and Richards High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":370,
+        "SAUID":185,
+        "SchoolName":"Rodriguez and Sons Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":371,
+        "SAUID":186,
+        "SchoolName":"Ellis, Kerr and Howard Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":372,
+        "SAUID":186,
+        "SchoolName":"Little, Barnes and King Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":373,
+        "SAUID":187,
+        "SchoolName":"Wright, Parker and Gonzalez Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":374,
+        "SAUID":187,
+        "SchoolName":"Copeland-Moore High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":375,
+        "SAUID":188,
+        "SchoolName":"Jones, Jenkins and Gibson Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":376,
+        "SAUID":188,
+        "SchoolName":"Reyes-Vasquez Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":377,
+        "SAUID":189,
+        "SchoolName":"Smith and Sons Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":378,
+        "SAUID":189,
+        "SchoolName":"Gillespie-Adams Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":379,
+        "SAUID":190,
+        "SchoolName":"Oneill and Sons Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":380,
+        "SAUID":190,
+        "SchoolName":"Sexton, Duffy and Curry High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":381,
+        "SAUID":191,
+        "SchoolName":"Holland, Snyder and Walsh High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":382,
+        "SAUID":191,
+        "SchoolName":"Ellis-Vaughan Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":383,
+        "SAUID":192,
+        "SchoolName":"Miranda, Hoover and Peters High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":384,
+        "SAUID":192,
+        "SchoolName":"Nolan Inc High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":385,
+        "SAUID":193,
+        "SchoolName":"Austin Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":386,
+        "SAUID":193,
+        "SchoolName":"Evans Inc High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":387,
+        "SAUID":194,
+        "SchoolName":"Bishop-Frank Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":388,
+        "SAUID":194,
+        "SchoolName":"Porter-Moore Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":389,
+        "SAUID":195,
+        "SchoolName":"Miller Group High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":390,
+        "SAUID":195,
+        "SchoolName":"Williams-Munoz Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":391,
+        "SAUID":196,
+        "SchoolName":"Moore and Sons Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":392,
+        "SAUID":196,
+        "SchoolName":"Rice-Luna Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":393,
+        "SAUID":197,
+        "SchoolName":"Brown Ltd Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":394,
+        "SAUID":197,
+        "SchoolName":"Rose-Sawyer High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":395,
+        "SAUID":198,
+        "SchoolName":"Dunn-Simmons High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":396,
+        "SAUID":198,
+        "SchoolName":"Woods, Garrison and Edwards Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":397,
+        "SAUID":199,
+        "SchoolName":"Massey PLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":398,
+        "SAUID":199,
+        "SchoolName":"West-Lopez High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":399,
+        "SAUID":200,
+        "SchoolName":"Jones, Burke and Gutierrez Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":400,
+        "SAUID":200,
+        "SchoolName":"Snyder-Farrell Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":401,
+        "SAUID":201,
+        "SchoolName":"Anthony-Reyes High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":402,
+        "SAUID":201,
+        "SchoolName":"Castaneda Group Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":403,
+        "SAUID":202,
+        "SchoolName":"Sanders-Rivers High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":404,
+        "SAUID":202,
+        "SchoolName":"Baldwin, Watson and Frost Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":405,
+        "SAUID":203,
+        "SchoolName":"Brown, Williams and Morgan High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":406,
+        "SAUID":203,
+        "SchoolName":"Williams-Wells Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":407,
+        "SAUID":204,
+        "SchoolName":"Wright-Martin High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":408,
+        "SAUID":204,
+        "SchoolName":"Sawyer, Elliott and Newman Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":409,
+        "SAUID":205,
+        "SchoolName":"Murphy, Lee and Kaufman Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":410,
+        "SAUID":205,
+        "SchoolName":"Coleman PLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":411,
+        "SAUID":206,
+        "SchoolName":"Rogers Ltd High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":412,
+        "SAUID":206,
+        "SchoolName":"Newman and Sons Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":413,
+        "SAUID":207,
+        "SchoolName":"Nguyen, Cowan and Mcdonald High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":414,
+        "SAUID":207,
+        "SchoolName":"Wilkinson-Bridges Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":415,
+        "SAUID":208,
+        "SchoolName":"Brown, Rogers and Ortiz Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":416,
+        "SAUID":208,
+        "SchoolName":"Jordan-Goodwin Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":417,
+        "SAUID":209,
+        "SchoolName":"Nguyen and Sons High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":418,
+        "SAUID":209,
+        "SchoolName":"Douglas Ltd High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":419,
+        "SAUID":210,
+        "SchoolName":"Dawson, Chung and Cisneros Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":420,
+        "SAUID":210,
+        "SchoolName":"Ortega and Sons Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":421,
+        "SAUID":211,
+        "SchoolName":"Smith, Morrison and Wagner High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":422,
+        "SAUID":211,
+        "SchoolName":"Decker, Davis and Hansen High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":423,
+        "SAUID":212,
+        "SchoolName":"Escobar PLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":424,
+        "SAUID":212,
+        "SchoolName":"Lee Inc Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":425,
+        "SAUID":213,
+        "SchoolName":"Villarreal, Mcbride and Tran Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":426,
+        "SAUID":213,
+        "SchoolName":"Griffin LLC High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":427,
+        "SAUID":214,
+        "SchoolName":"Perez, Perez and Hill High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":428,
+        "SAUID":214,
+        "SchoolName":"Lucero Inc Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":429,
+        "SAUID":215,
+        "SchoolName":"Myers, Burke and Price Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":430,
+        "SAUID":215,
+        "SchoolName":"Graham-Shaw Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":431,
+        "SAUID":216,
+        "SchoolName":"Simpson Group Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":432,
+        "SAUID":216,
+        "SchoolName":"Garcia-Powell Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":433,
+        "SAUID":217,
+        "SchoolName":"Shaw, Bullock and Henderson Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":434,
+        "SAUID":217,
+        "SchoolName":"Wright, Aguirre and Baker High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":435,
+        "SAUID":218,
+        "SchoolName":"Smith and Sons Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":436,
+        "SAUID":218,
+        "SchoolName":"Mitchell Ltd Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":437,
+        "SAUID":219,
+        "SchoolName":"Chapman LLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":438,
+        "SAUID":219,
+        "SchoolName":"Haney-Wilson Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":439,
+        "SAUID":220,
+        "SchoolName":"Savage and Sons Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":440,
+        "SAUID":220,
+        "SchoolName":"Smith-Duran Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":441,
+        "SAUID":221,
+        "SchoolName":"Romero, Turner and Morgan Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":442,
+        "SAUID":221,
+        "SchoolName":"Cole PLC High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":443,
+        "SAUID":222,
+        "SchoolName":"Williams, Bond and Woods Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":444,
+        "SAUID":222,
+        "SchoolName":"Hicks-Williams High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":445,
+        "SAUID":223,
+        "SchoolName":"Mays Ltd Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":446,
+        "SAUID":223,
+        "SchoolName":"Hernandez, Hines and Sanders Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":447,
+        "SAUID":224,
+        "SchoolName":"Romero-Collins Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":448,
+        "SAUID":224,
+        "SchoolName":"West, Herring and Kaiser High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":449,
+        "SAUID":225,
+        "SchoolName":"Marquez, Meyer and Waller Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":450,
+        "SAUID":225,
+        "SchoolName":"George-Obrien Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":451,
+        "SAUID":226,
+        "SchoolName":"Rodriguez-Burton Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":452,
+        "SAUID":226,
+        "SchoolName":"Boyer and Sons Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":453,
+        "SAUID":227,
+        "SchoolName":"Sanders, Carlson and Craig Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":454,
+        "SAUID":227,
+        "SchoolName":"Taylor, Bruce and Whitney High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":455,
+        "SAUID":228,
+        "SchoolName":"Brewer and Sons High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":456,
+        "SAUID":228,
+        "SchoolName":"Tucker-Sanchez Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":457,
+        "SAUID":229,
+        "SchoolName":"Owens, Wells and Brennan Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":458,
+        "SAUID":229,
+        "SchoolName":"Holden-Griffin Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":459,
+        "SAUID":230,
+        "SchoolName":"Castillo-Jackson Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":460,
+        "SAUID":230,
+        "SchoolName":"Peck Inc Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":461,
+        "SAUID":231,
+        "SchoolName":"Johnson-Rodriguez High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":462,
+        "SAUID":231,
+        "SchoolName":"Berg Inc Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":463,
+        "SAUID":232,
+        "SchoolName":"Smith-Duran High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":464,
+        "SAUID":232,
+        "SchoolName":"Acevedo LLC Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":465,
+        "SAUID":233,
+        "SchoolName":"Acosta Ltd High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":466,
+        "SAUID":233,
+        "SchoolName":"Moyer, Taylor and Smith Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":467,
+        "SAUID":234,
+        "SchoolName":"Lopez Group Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":468,
+        "SAUID":234,
+        "SchoolName":"Porter, Reynolds and Reed Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":469,
+        "SAUID":235,
+        "SchoolName":"Berger-Harris Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":470,
+        "SAUID":235,
+        "SchoolName":"Flynn-Mckay Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":471,
+        "SAUID":236,
+        "SchoolName":"Anderson-Morales Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":472,
+        "SAUID":236,
+        "SchoolName":"Allen Inc Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":473,
+        "SAUID":237,
+        "SchoolName":"Williams Group Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":474,
+        "SAUID":237,
+        "SchoolName":"Evans LLC Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":475,
+        "SAUID":238,
+        "SchoolName":"Robinson, Jones and Bautista Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":476,
+        "SAUID":238,
+        "SchoolName":"Wood Ltd Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":477,
+        "SAUID":239,
+        "SchoolName":"Hudson-Martin Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":478,
+        "SAUID":239,
+        "SchoolName":"Bennett, Wells and Moore High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":479,
+        "SAUID":240,
+        "SchoolName":"Johnson-Mendoza Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":480,
+        "SAUID":240,
+        "SchoolName":"Howard LLC High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":481,
+        "SAUID":241,
+        "SchoolName":"Walters Inc High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":482,
+        "SAUID":241,
+        "SchoolName":"Dunn-Mckenzie High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":483,
+        "SAUID":242,
+        "SchoolName":"Mullins-Daniel High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":484,
+        "SAUID":242,
+        "SchoolName":"Malone-Ramos Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":485,
+        "SAUID":243,
+        "SchoolName":"Green, Brown and Paul Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":486,
+        "SAUID":243,
+        "SchoolName":"Chang PLC Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":487,
+        "SAUID":244,
+        "SchoolName":"Cooper-Allen Middle School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":488,
+        "SAUID":244,
+        "SchoolName":"Dyer, Henderson and Spears Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":489,
+        "SAUID":245,
+        "SchoolName":"Lester-Allen Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":490,
+        "SAUID":245,
+        "SchoolName":"Goodwin Inc High School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":491,
+        "SAUID":246,
+        "SchoolName":"Brown, Wright and Warner Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":492,
+        "SAUID":246,
+        "SchoolName":"Navarro Group Middle School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":493,
+        "SAUID":247,
+        "SchoolName":"Miller, Reynolds and Rodriguez Elementary School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":494,
+        "SAUID":247,
+        "SchoolName":"Martinez, Burton and Conley High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":495,
+        "SAUID":248,
+        "SchoolName":"Blankenship and Sons Elementary School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":496,
+        "SAUID":248,
+        "SchoolName":"Beard-Thomas High School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":497,
+        "SAUID":249,
+        "SchoolName":"Smith-Huff Middle School",
+        "SchoolType":"Elementary"
+    },
+    {
+        "SchoolID":498,
+        "SAUID":249,
+        "SchoolName":"Cameron-Williams High School",
+        "SchoolType":"Middle"
+    },
+    {
+        "SchoolID":499,
+        "SAUID":250,
+        "SchoolName":"Brown Ltd Elementary School",
+        "SchoolType":"High"
+    },
+    {
+        "SchoolID":500,
+        "SAUID":250,
+        "SchoolName":"Ward Ltd High School",
+        "SchoolType":"Elementary"
+    }
+]
